@@ -1,4 +1,4 @@
 simple_artgallery
 =================
 
-A simple object oriented Java art gallery project created as a freshman. 
+A simple art gallery project written in JAVA, demonstrating object oriented programming principles. 
